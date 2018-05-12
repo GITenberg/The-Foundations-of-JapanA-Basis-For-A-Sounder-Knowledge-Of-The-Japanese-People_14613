@@ -1,0 +1,37 @@
+_repo: The-Foundations-of-JapanA-Basis-For-A-Sounder-Knowledge-Of-The-Japanese-People_14613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robertson Scott, J. W. (John William)
+    aliases:
+    - Robertson Scott, John William
+    - Scott, J. W. Robertson (John William Robertson)
+    birthdate: 1866
+    deathdate: 1962
+    gutenberg_agent_id: '5595'
+    url: http://www.gutenberg.org/2009/agents/5595
+description: ''
+gutenberg_issued: '2005-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14613'
+  lccn: '22012918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Description and travel'
+- !lcsh 'Agriculture -- Japan'
+- !lcsh 'Japan -- Social conditions'
+- !lcc 'DS'
+- !lcsh 'Country life -- Japan'
+title: 'The Foundations of Japan
+
+  Notes Made During Journeys Of 6,000 Miles In The Rural Districts As
+
+  A Basis For A Sounder Knowledge Of The Japanese People'
+url: http://www.gutenberg.org/ebooks/14613
